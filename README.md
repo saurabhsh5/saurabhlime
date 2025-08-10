@@ -157,7 +157,8 @@ I actively contribute to various open-source projects, particularly in the secur
 ## 🔗 Connect With Me
 
 - 🐙 **GitHub**: [@saurabhlime](https://github.com/saurabhlime)
-- 💼 **Company**: [Lime](https://github.com/limebike)
+- 💼 **LinkedIn**: [saurabh-sharma910](https://www.linkedin.com/in/saurabh-sharma910/)
+- 🏢 **Company**: [Lime](https://github.com/limebike)
 - 📧 **Professional Contact**: Available through GitHub or LinkedIn
 
 ## 🎯 Current Focus

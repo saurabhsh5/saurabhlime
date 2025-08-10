@@ -145,16 +145,6 @@ I actively contribute to various open-source projects, particularly in the secur
   </table>
 </div>
 
-### 📊 Visual Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhlime&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhlime&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhlime&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%" />
-</div>
 
 ### 🎯 Key Contributions at Limebike
 - **Security Infrastructure**: `tf-iam`, `infra-kubernetes`, `infra-terraform`

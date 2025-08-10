@@ -43,39 +43,103 @@ I actively contribute to various open-source projects, particularly in the secur
 
 ## 📈 GitHub Stats
 
-### 🏆 Contribution Overview
+### 🏆 Contribution Overview (2022-Present)
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <strong>⭐ Total Stars Earned</strong><br>
-        <span style="font-size: 2em; font-weight: bold; color: #f39c12;">91</span>
+        <strong>🔀 Total Pull Requests</strong><br>
+        <span style="font-size: 2em; font-weight: bold; color: #e74c3c;">142</span><br>
+        <small>2022: 6 | 2023: 30 | 2024: 70 | 2025: 36</small>
       </td>
       <td align="center">
-        <strong>🔀 Total Pull Requests</strong><br>
-        <span style="font-size: 2em; font-weight: bold; color: #e74c3c;">30</span>
+        <strong>👀 Code Reviews</strong><br>
+        <span style="font-size: 2em; font-weight: bold; color: #f39c12;">261</span><br>
+        <small>2022: 14 | 2023: 25 | 2024: 111 | 2025: 111</small>
       </td>
       <td align="center">
         <strong>📂 Repositories Contributed</strong><br>
-        <span style="font-size: 2em; font-weight: bold; color: #3498db;">19</span>
+        <span style="font-size: 2em; font-weight: bold; color: #3498db;">19+</span><br>
+        <small>Active across multiple codebases</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <strong>🛴 Limebike Contributions</strong><br>
-        <span style="font-size: 1.8em; font-weight: bold; color: #2ecc71;">16 repos</span><br>
-        <small>Security tools, infrastructure, mobile apps, ML training</small>
+        <strong>📊 Issues Created</strong><br>
+        <span style="font-size: 2em; font-weight: bold; color: #9b59b6;">9+</span><br>
+        <small>Security findings & improvements</small>
       </td>
       <td align="center">
-        <strong>🌍 Open Source Contributions</strong><br>
-        <span style="font-size: 1.8em; font-weight: bold; color: #9b59b6;">3 projects</span><br>
-        <small>DefectDojo, AppMap, Personal projects</small>
+        <strong>⭐ Total Stars Earned</strong><br>
+        <span style="font-size: 2em; font-weight: bold; color: #2ecc71;">91</span><br>
+        <small>Across all repositories</small>
       </td>
       <td align="center">
-        <strong>🔒 Security-Focused Repos</strong><br>
-        <span style="font-size: 1.8em; font-weight: bold; color: #e67e22;">8+</span><br>
-        <small>Threat modeling, security rules, guard tools</small>
+        <strong>🚀 Contribution Growth</strong><br>
+        <span style="font-size: 2em; font-weight: bold; color: #e67e22;">+600%</span><br>
+        <small>2022 → 2024 activity increase</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📈 Yearly Breakdown
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Year</th>
+      <th>Pull Requests</th>
+      <th>Code Reviews</th>
+      <th>Growth</th>
+    </tr>
+    <tr>
+      <td><strong>2022</strong></td>
+      <td>6 PRs</td>
+      <td>14 Reviews</td>
+      <td>🌱 Foundation</td>
+    </tr>
+    <tr>
+      <td><strong>2023</strong></td>
+      <td>30 PRs</td>
+      <td>25 Reviews</td>
+      <td>📈 +400% PRs</td>
+    </tr>
+    <tr>
+      <td><strong>2024</strong></td>
+      <td>70 PRs</td>
+      <td>111 Reviews</td>
+      <td>🚀 +133% PRs, +344% Reviews</td>
+    </tr>
+    <tr>
+      <td><strong>2025</strong></td>
+      <td>36 PRs</td>
+      <td>111 Reviews</td>
+      <td>⚡ Strong pace (YTD)</td>
+    </tr>
+  </table>
+</div>
+
+### 🎯 Contribution Distribution
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🛴 Limebike Ecosystem</strong><br>
+        <span style="font-size: 1.8em; font-weight: bold; color: #2ecc71;">16+ repos</span><br>
+        <small>Security infrastructure, mobile, ML, platform</small>
+      </td>
+      <td align="center">
+        <strong>🌍 Open Source</strong><br>
+        <span style="font-size: 1.8em; font-weight: bold; color: #9b59b6;">3+ projects</span><br>
+        <small>DefectDojo, AppMap, personal tools</small>
+      </td>
+      <td align="center">
+        <strong>🔒 Security Focus</strong><br>
+        <span style="font-size: 1.8em; font-weight: bold; color: #e67e22;">60%+</span><br>
+        <small>Security-related contributions</small>
       </td>
     </tr>
   </table>

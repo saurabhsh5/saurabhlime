@@ -32,27 +32,6 @@ I'm a **Founding Security Engineer** at [Lime](https://github.com/limebike) 🛴
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## 🎯 Featured Projects
-
-### 🔐 [stride-gpt](https://github.com/saurabhlime/stride-gpt)
-**AI-Powered Threat Modeling Tool**
-- Leverages OpenAI's GPT models to generate comprehensive threat models
-- Implements the STRIDE methodology for systematic security analysis
-- Built with Python for seamless integration into security workflows
-- *Perfect for security teams looking to automate threat modeling processes*
-
-### 📊 [nowsecure-sbom-action](https://github.com/saurabhlime/nowsecure-sbom-action)
-**Mobile SBOM Generation Action**
-- GitHub Action for generating Software Bill of Materials (SBOM) for mobile applications
-- Automatically submits to GitHub's Dependency Submission API
-- Enhances supply chain security visibility for mobile apps
-- *Essential tool for mobile security compliance*
-
-### 🔧 [saurabhlime](https://github.com/saurabhlime/saurabhlime)
-**GitHub Profile Configuration**
-- Personalized GitHub profile with dynamic content
-- Showcases my work and contributions in the security space
-
 ## 🌟 Open Source Contributions
 
 I actively contribute to various open-source projects, particularly in the security and DevOps space:

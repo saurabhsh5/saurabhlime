@@ -102,7 +102,6 @@ I actively contribute to various open-source projects, particularly in the secur
       <td><strong>2023</strong></td>
       <td>30 PRs</td>
       <td>25 Reviews</td>
-      <td>📈 +400% PRs</td>
     </tr>
     <tr>
       <td><strong>2024</strong></td>

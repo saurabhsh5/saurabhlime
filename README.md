@@ -92,13 +92,11 @@ I actively contribute to various open-source projects, particularly in the secur
       <th>Year</th>
       <th>Pull Requests</th>
       <th>Code Reviews</th>
-      <th>Growth</th>
     </tr>
     <tr>
       <td><strong>2022</strong></td>
       <td>6 PRs</td>
       <td>14 Reviews</td>
-      <td>🌱 Foundation</td>
     </tr>
     <tr>
       <td><strong>2023</strong></td>
@@ -110,13 +108,11 @@ I actively contribute to various open-source projects, particularly in the secur
       <td><strong>2024</strong></td>
       <td>70 PRs</td>
       <td>111 Reviews</td>
-      <td>🚀 +133% PRs, +344% Reviews</td>
     </tr>
     <tr>
       <td><strong>2025</strong></td>
       <td>36 PRs</td>
       <td>111 Reviews</td>
-      <td>⚡ Strong pace (YTD)</td>
     </tr>
   </table>
 </div>
@@ -183,4 +179,3 @@ I believe in building security into every layer of the technology stack, from co
 <div align="center">
   <sub>⭐️ If you find my work helpful, please consider starring my repositories!</sub>
 </div>
-# empty_repo

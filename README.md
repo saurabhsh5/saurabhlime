@@ -1,7 +1,7 @@
 # Hi there, I'm Saurabh Sharma! 👋
 
 <div align="center">
-  <img src="https://github.com/saurabhlime.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://github.com/saurabhsh5.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
 </div>
 
 ## 🚀 About Me
@@ -92,26 +92,31 @@ I actively contribute to various open-source projects, particularly in the secur
       <th>Year</th>
       <th>Pull Requests</th>
       <th>Code Reviews</th>
+      <th>Total Contributions</th>
     </tr>
     <tr>
       <td><strong>2022</strong></td>
       <td>6 PRs</td>
       <td>14 Reviews</td>
+      <td>-</td>
     </tr>
     <tr>
       <td><strong>2023</strong></td>
       <td>30 PRs</td>
       <td>25 Reviews</td>
+      <td>-</td>
     </tr>
     <tr>
       <td><strong>2024</strong></td>
       <td>70 PRs</td>
       <td>111 Reviews</td>
+      <td>-</td>
     </tr>
     <tr>
       <td><strong>2025</strong></td>
       <td>36 PRs</td>
       <td>111 Reviews</td>
+      <td><strong>298 Contributions</strong></td>
     </tr>
   </table>
 </div>
@@ -151,7 +156,7 @@ I actively contribute to various open-source projects, particularly in the secur
 
 ## 🔗 Connect With Me
 
-- 🐙 **GitHub**: [@saurabhlime](https://github.com/saurabhlime)
+- 🐙 **GitHub**: [@saurabhsh5](https://github.com/saurabhsh5)
 - 💼 **LinkedIn**: [saurabh-sharma910](https://www.linkedin.com/in/saurabh-sharma910/)
 - 🏢 **Company**: [Lime](https://github.com/limebike)
 - 📧 **Professional Contact**: Available through GitHub or LinkedIn
@@ -172,7 +177,7 @@ I believe in building security into every layer of the technology stack, from co
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhlime&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saurabhsh5&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
